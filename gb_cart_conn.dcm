@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 39F040
+D FLASHROM 512 K x  8 bits (32 pins DIP or PLCC)
+K FLASHROM 512KO
+$ENDCMP
+#
+#End Doc Library
